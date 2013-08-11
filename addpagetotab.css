@@ -16,3 +16,16 @@
       "matches": [ "https://developers.facebook.com/apps/*" ]
   } ]
 }
+
+.adBtn{
+  background-color: #222222;
+  border-radius: 5px;
+  font-size: 12px;
+  font-family: 'meiryo',sans-serif;
+  margin-left: 20px;
+  padding: 2px 12px;
+  vertical-align: middle;
+}
+.devsitePage #developerAppHeader a:last-child{
+  color: #ffffff;
+}
